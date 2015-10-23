@@ -38,6 +38,7 @@
     Primes *primes = [Primes new];
     NSLog(@"last prime is %@",[primes.primes lastObject]);
     
+    NSLog(@"==== test edit ====");
     // Do any additional setup after loading the view, typically from a nib.
     
 }
